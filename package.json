@@ -16,7 +16,9 @@
     "url": "https://github.com/CodeChain-io/lowdb-session-storage-adapter/issues"
   },
   "homepage": "https://github.com/CodeChain-io/lowdb-session-storage-adapter#readme",
-  "dependencies": {},
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  },
   "devDependencies": {},
   "keywords": [
     "session-storage",
