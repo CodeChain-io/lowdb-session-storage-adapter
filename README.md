@@ -1,0 +1,1 @@
+# lowdb-session-storage-adapter
