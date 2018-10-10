@@ -1,0 +1,27 @@
+{
+  "name": "lowdb-session-storage-adapter",
+  "version": "1.0.0",
+  "description": "session storage adapter for lowdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeChain-io/lowdb-session-storage-adapter.git"
+  },
+  "author": "CodeChain Team <codechain@kodebox.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeChain-io/lowdb-session-storage-adapter/issues"
+  },
+  "homepage": "https://github.com/CodeChain-io/lowdb-session-storage-adapter#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "session-storage",
+    "sessionStorage",
+    "lowdb",
+    "lowdb-adapter"
+  ]
+}
